@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Calculator App</string>
+    <string name="develop_by_md_kajam_all_koraish">Developed by\nMD. KAJAM-ALL KORAISH\nID - 20</string>
+    <string name="enter_first_number">Enter first number</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="enter_second_number">Enter second number</string>
+    <string name="calculate">Calculate</string>
+    <string name="result">Result</string>
+</resources>
