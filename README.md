@@ -63,12 +63,12 @@ Create a **Simple Calculator App** that performs **Addition, Subtraction, Multip
 
 <table>
   <tr>
-    <td><img src="https://github.com/koraish3438/Simple-Calculator-App/raw/master/Screenshot_1.png" width="200"></td>
-    <td><img src="https://github.com/koraish3438/Simple-Calculator-App/raw/master/Screenshot_2.png" width="200"></td>
+    <td><img src="https://github.com/koraish3438/Simple-Calculator-App/raw/master/Screenshot_2025-10-20-10-13-46-71_d9b4d092185ec6966003d66ec3f856f8.jpg" width="200"></td>
+    <td><img src="https://github.com/koraish3438/Simple-Calculator-App/raw/master/Screenshot_2025-10-20-10-13-40-14_d9b4d092185ec6966003d66ec3f856f8.jpg" width="200"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/koraish3438/Simple-Calculator-App/raw/master/Screenshot_3.png" width="200"></td>
-    <td><img src="https://github.com/koraish3438/Simple-Calculator-App/raw/master/Screenshot_4.png" width="200"></td>
+    <td><img src="https://github.com/koraish3438/Simple-Calculator-App/raw/master/Screenshot_2025-10-20-10-13-50-15_d9b4d092185ec6966003d66ec3f856f8.jpg" width="200"></td>
+    <td><img src="https://github.com/koraish3438/Simple-Calculator-App/raw/master/Screenshot_2025-10-20-10-13-57-24_d9b4d092185ec6966003d66ec3f856f8.jpg" width="200"></td>
   </tr>
 </table>
 
